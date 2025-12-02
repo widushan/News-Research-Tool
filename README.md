@@ -52,8 +52,8 @@ A user-friendly news research tool that leverages LangChain and OpenAI to transf
    
    Navigate to `http://localhost:8501`
 
-   <img width="1903" height="1036" alt="Image" src="https://github.com/user-attachments/assets/2bd9579a-6f28-4078-82db-e00e953d0e32" />
-
+   <img width="1903" height="1036" alt="Image" src="https://github.com/user-attachments/assets/26177802-d4ca-4349-bd84-b75b8c90cf73" />
+   
 ---
 
 ## 🎯 How It Works
@@ -119,7 +119,7 @@ The application uses the following default settings:
 
 4. Get your answer with sources!
 
-    <img width="1905" height="1023" alt="Image" src="https://github.com/user-attachments/assets/ea56500e-341b-4c85-a655-caa1e4030a63" />
+    <img width="1905" height="1023" alt="Image" src="https://github.com/user-attachments/assets/bb20ffe4-6099-4a9d-981c-bb42ec217429" />
 
 ---
 
